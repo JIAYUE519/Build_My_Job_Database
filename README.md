@@ -5,6 +5,7 @@ Web-scraped job posts using selenium webdriver from Linkedin. Used Python to com
 This module requires selenium webdriver and MySQL. 
 
 $ pip install selenium
+
 $ pip install pymysql
 
 (I do not condone scraping LinkedIn data in any way. Please read LinkedIn's statement on their prohibition of scraping software first)

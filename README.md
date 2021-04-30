@@ -8,4 +8,4 @@ $ pip install selenium
 
 $ pip install pymysql
 
-(I do not condone scraping LinkedIn data in any way. Please read LinkedIn's statement on their prohibition of scraping software first)
+(I do not condone scraping LinkedIn data in any way. This project is for learning purpose only. Please read LinkedIn's statement on their prohibition of scraping software first)

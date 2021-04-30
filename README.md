@@ -2,7 +2,7 @@
 
 Looking for data scientist jobs like a data professional!
 
-In this project, I web-scraped job posts using selenium webdriver from Linkedin. Used Python to compile and analyze data scientist job information in San Francisco, Austin, New York and Seattle. Stored the results in MySQL. 
+In this project, I web-scraped job posts using selenium webdriver from Linkedin. Used Python to compile and analyze data scientist job information in San Francisco, Austin, New York and Seattle. The results are stored in MySQL. 
 
 This module requires selenium webdriver and MySQL. 
 
